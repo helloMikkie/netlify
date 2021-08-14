@@ -1,0 +1,23 @@
+{
+  "name": "netlify-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/helloMikkie/netlify.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloMikkie/netlify/issues"
+  },
+  "homepage": "https://github.com/helloMikkie/netlify#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
